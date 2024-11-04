@@ -1,7 +1,10 @@
 # KeyInput
 Keyboard Input Viewer for macOS!
 
-# How to Download
+## Note
+The app will automatically close once and then launch again.
+
+## How to Download
 Please Download in Release Page
 
 ## How to Build
