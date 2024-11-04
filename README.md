@@ -1,3 +1,5 @@
+![Screenshot 2024-11-04 at 9 09 38 PM](https://github.com/user-attachments/assets/84fb2587-c65c-455c-afd4-326e14f0a8c5)
+
 # KeyInput
 Keyboard Input Viewer for macOS!
 
